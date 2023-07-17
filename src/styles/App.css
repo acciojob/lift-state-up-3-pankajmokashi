@@ -1,1 +1,15 @@
 
+.parent{
+    background-color: greenyellow;
+    padding: 20px;
+}
+.child1{
+    background-color: #982323;
+    margin-top: 20px;
+    padding: 10px;
+}
+.child2{
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(253, 206, 65);
+}
