@@ -1,4 +1,4 @@
-
+import React from "react";
 const Child1 = ({changeState}) => {
     return(
         <div className="child1">
